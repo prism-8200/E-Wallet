@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1476733226 source:c:\users\bhara\documents\codeblocks\mini2\main.cpp
+	"mini.h"
+	"mini.h"
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctime>
+	<sstream>
+
+1476728941 c:\users\bhara\documents\codeblocks\mini2\mini.h
+	"mini.h"
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctime>
+	<sstream>
+
+1476733226 source:c:\users\bhara\documents\codeblocks\mini2\mini.cpp
+	"mini.h"
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctime>
+	<sstream>
+
+1476733228 source:c:\users\mounika_2\desktop\mini2\main.cpp
+	"mini.h"
+	"mini.h"
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctime>
+	<sstream>
+
+1476728942 c:\users\mounika_2\desktop\mini2\mini.h
+	"mini.h"
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctime>
+	<sstream>
+
+1476733618 source:c:\users\mounika_2\desktop\mini2\mini.cpp
+	"mini.h"
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctime>
+	<sstream>
+
